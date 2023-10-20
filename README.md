@@ -1,4 +1,4 @@
-# PENUMONIA_DETECTION_USING_DEEP_LEARNING
+# PNEUMONIA_DETECTION_USING_DEEP_LEARNING
 A common and possibly fatal respiratory infection, pneumonia affects millions of individuals worldwide.The traditional diagnostic process for pneumonia primarily relies on chest X-rays, which can be resource-intensive and often require advanced medical facilities. While these methods are effective, they may not be readily available in resource-constrained or remote settings.
 Here comes the Penumonia Detection Using DeepvLearning
 Input is given as audio mp3 format to which is converted to wav format. Then model detectes the audio and give results if it is positive for Penumonia or Not.
