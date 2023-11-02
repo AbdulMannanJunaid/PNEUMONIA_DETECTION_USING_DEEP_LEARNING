@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Pneumonia Detection</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <h1>Pneumonia Detection using Cough Audio</h1>
+    <form action="/predict" method="post" enctype="multipart/form-data">
+        <input type="file" name="audio" accept=".wav">
+        <input type="submit" value="Predict">
+    </form>
+    <div id="result"></div>
+</body>
+</html>
