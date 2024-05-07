@@ -3,10 +3,3 @@
           
 ![1DCNNmodel_architecture](https://github.com/AbdulMannanJunaid/PNEUMONIA_DETECTION_USING_DEEP_LEARNING/assets/125243022/e81924e0-da3f-4015-ad40-c8b2b767aa3c)
 
-
-
-         Here is the mode architecture for 2D CNN ( 2DCNN_model_architecture.jpg )
-
-
-
-![2DCNN_model_architecture](https://github.com/AbdulMannanJunaid/PNEUMONIA_DETECTION_USING_DEEP_LEARNING/assets/125243022/e0d6b055-e419-4b3a-b90e-fe5052893a38)
